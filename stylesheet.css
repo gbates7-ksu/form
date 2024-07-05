@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    background-color: whitesmoke;
+	text-align: center;
+	font-weight: bold;
+}
+
+.form {
+
+    background-color: white;
+	border-style: solid;
+	border-width: 1em;
+	margin-left: 9em;
+	margin-right: 9em;
+
+}
+
+.formstyle {
+	margin-top: 1px;
+	margin-bottom: 1px;
+
+}
+
+.submit {
+	margin-bottom: 20px;
+}
+
+button {
+	cursor: pointer;
+	font-weight: bold;
+	border-radius: 4px;
+	font-size: 18px;
+}
+
+select {
+	cursor: pointer;
+	font-weight: bold;
+	border-radius: 4px;
+	font-size: 14px;
+	text-align: center;
+}
